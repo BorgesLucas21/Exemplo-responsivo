@@ -1,0 +1,10 @@
+@import url("estilos/header.css");
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Matemasie&display=swap')
+:root{
+    --amarelo:#d7c74df7; --fundo-azul:blue;  
+    --lilas:purple; --fundo-projeto: "Dosis";
+}
+body{
+    background-color:var(--amarelo);
+    margin: 0; font-family: var(--fundo-projeto);
+}
